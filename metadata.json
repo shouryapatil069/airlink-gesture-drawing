@@ -1,0 +1,6 @@
+{
+  "name": "AirLink",
+  "description": "A futuristic webcam-based hand gesture drawing app. Draw with your index finger, erase with an open palm, and pause with a fist.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
