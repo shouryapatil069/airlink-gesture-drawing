@@ -1,20 +1,36 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+AirLink is a gesture-based air drawing web app that lets users draw on the screen using their index finger through webcam hand tracking.
+The app uses a full-screen camera interface, real-time hand gesture detection, and an interactive canvas so users can draw, erase, clear, and download their artwork directly from the browser.
 
-# Run and deploy your AI Studio app
+## Live Demo
+https://your-airlink-link.vercel.app
 
-This contains everything you need to run your app locally.
+Features:
+Webcam-based hand tracking
+Draw using the index finger gesture
+Erase using an open palm gesture
+Idle mode using the first gesture
+Smooth canvas drawing
+Fullscreen camera interface
+Floating control panel
+Brush color selection
+Brush thickness control
+Glow intensity control
+Clear canvas button
+Download drawing as PNG
+Camera permission popup
+Exit button that stops the webcam
+Minimal dark UI with subtle animations
 
-View your app in AI Studio: https://ai.studio/apps/d8a7fc8e-10aa-403e-89f9-7a431f850660
+Tech Stack:
+React
+TypeScript
+Vite
+Tailwind CSS
+Canvas API
+MediaPipe Hands
+Framer Motion
+Lucide React
+Vercel
 
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Deployment:
+This project is deployed using Vercel.
