@@ -40,7 +40,7 @@ npm start
 
 ## Links
 
-- [Live Demo](https://your-airlink-link.vercel.app)
+- [Live Demo](https://airlink-gesture-drawing.vercel.app/)
 - [GitHub Repository](https://github.com/shouryapatil069/airlink-gesture-drawing)
 
 ## Author
